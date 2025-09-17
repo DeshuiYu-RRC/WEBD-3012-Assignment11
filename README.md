@@ -11,8 +11,8 @@ Follow the steps below to run the application locally using Docker.
 
 ### 1. Clone the Repository
 ```bash
-git clone <your-repo-url>
-cd <your-repo-folder>
+git clone https://github.com/DeshuiYu-RRC/WEBD-3012-Assignment11.git
+cd WEBD-3012-Assignment11
 ````
 
 ### 2. Build the Docker Image

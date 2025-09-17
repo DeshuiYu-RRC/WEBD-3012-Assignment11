@@ -1,6 +1,6 @@
 FROM node:20-alpine
 
-WORKDIR /app
+WORKDIR /deshui_yu_site
 
 # Copy package files first for better caching
 COPY package.json package-lock.json* ./
